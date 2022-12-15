@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/star-game1/static/css/main.6bca6bc6.css",
+    "main.js": "/star-game1/static/js/main.f22d8374.js",
+    "static/js/787.bd8347ab.chunk.js": "/star-game1/static/js/787.bd8347ab.chunk.js",
+    "index.html": "/star-game1/index.html",
+    "main.6bca6bc6.css.map": "/star-game1/static/css/main.6bca6bc6.css.map",
+    "main.f22d8374.js.map": "/star-game1/static/js/main.f22d8374.js.map",
+    "787.bd8347ab.chunk.js.map": "/star-game1/static/js/787.bd8347ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bca6bc6.css",
+    "static/js/main.f22d8374.js"
+  ]
+}
